@@ -1,6 +1,6 @@
 applications:
 - path: .
-  memory: 128M
+  memory: 128g
   instances: 1
   name: 1056test
   host: 1056test
